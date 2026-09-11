@@ -1,0 +1,6 @@
+# A first workflow to play around with the editor
+name: My First Worfklow
+on: 
+  push:
+    branches:
+      - main
